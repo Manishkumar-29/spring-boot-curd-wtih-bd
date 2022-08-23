@@ -1,7 +1,7 @@
 package com.enveu.example.demo.entity;
 
 import javax.persistence.*;
-
+//Author Name - Manish Kumar
 @Entity
 @Table(name="employee_table")
 public class Employee {
